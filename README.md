@@ -14,6 +14,6 @@ Warum WellBee Tracker?
 •	Motivierend: Motivierende Zitate und Erinnerungen unterstützen dich, auch an herausfordernden Tagen dranzubleiben.
 •	Ganzheitlich: Der WellBee Tracker verbindet die wichtigsten Aspekte deines Alltags – Körper, Geist und Gesundheit – in einer App.
 
-Für die korrekte Anwendung des WellBee Trackers, ist es jedoch notwendig das gesamten zip-file herunterzuladen, da sich einige PNG-Files darin befinden, die sehr wichtig für die richtige Darstellung des Codes sind. Daher bitte um Herunterladen sowie Entzippen des Files.
+Für die korrekte Anwendung des WellBee Trackers, ist es jedoch notwendig das gesamten zip-file herunterzuladen, da sich einige PNG-Files darin befinden, die sehr wichtig für die richtige Darstellung des Codes sind. Daher bitte um Herunterladen sowie Entzippen des Files. Das Py-File muss im selben Ordner hinterlegt sein wie die PNG-Files.
 
 Viel Spaß beim Tracken deiner täglichen Fortschritte mit deinem Begleiter des Vertrauens – WellBee Tracker!  
